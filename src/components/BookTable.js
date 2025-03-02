@@ -18,8 +18,6 @@ export default function BookTable() {
     date: "",
   });
 
-  const [reduired, setReduired] = useState(false);
-
   // How many function
   const [many, setMany] = useState("");
 
